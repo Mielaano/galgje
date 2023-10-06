@@ -12,4 +12,4 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-
+ik raad A
